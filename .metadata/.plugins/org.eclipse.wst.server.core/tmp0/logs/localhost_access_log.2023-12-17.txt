@@ -1,0 +1,5 @@
+127.0.0.1 - - [17/Dec/2023:16:30:59 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Dec/2023:16:30:59 +0530] "GET /AppServlet2_RequestDispatcher/ HTTP/1.1" 200 327
+0:0:0:0:0:0:0:1 - - [17/Dec/2023:16:31:00 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [17/Dec/2023:16:31:05 +0530] "POST /AppServlet2_RequestDispatcher/choice HTTP/1.1" 200 355
+0:0:0:0:0:0:0:1 - - [17/Dec/2023:16:31:17 +0530] "POST /AppServlet2_RequestDispatcher/choice HTTP/1.1" 200 355
